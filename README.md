@@ -1,5 +1,5 @@
 # pre-hr-learning-recommendations
-Some less technical things worth jumping into before you begin Hack Reactor
+Some less technical things worth jumping into before you begin Hack Reactor. Plus some recs for having your dev environment ready
 
 ## Gratitude
 A lot of this has been influenced by the following brilliant people:
@@ -34,9 +34,17 @@ It doesn't hurt to get started. When you start interviewing around, you're going
 ## Workflow
 Workflow is everything. It's how you leverage your ability to get more things done in a much more effective manner. Learn to love your keyboard and abandon the mouse/trackpad. The sooner you can rely on yourself to be faster, the more efficient you're going to be.
 You're an engineer, and you really have no excuse to not know this stuff.
++ Install [Spectacle](https://www.spectacleapp.com/) for managing and resizing your windows. It's incredible.
++ If you use Chrome (and you should, since it has the best debugging tools), you should install [Vimium](https://vimium.github.io/), which gives you access to some incredible keyboard shortcuts for browsing the web. It's great because you'll rely much less on your mouse.
 + Customize your bash profile. [This one](https://github.com/joshwyatt/bash_profile/blob/master/bash_profile) from an Josh Wyatt is stellar.
 + Alternately, consider [Zsh](https://github.com/robbyrussell/oh-my-zsh)
 + [Mackup](https://github.com/lra/mackup) can help you sync dev environments across machines if you’re like me and have a desktop + laptop.
 + Alternately, I [synced just my Sublime Package Control](https://packagecontrol.io/docs/syncing) using Dropbox.
 + Additionally, Josh gives an [awesome keyboard shortcuts talk](https://github.com/joshwyatt/keyboard_shortcuts).
 + If you want even more than that, check out these power tools for productivity — I got the most value out of [this one](http://dsernst.com/2015/06/11/software-engineering-power-tools/) from David Ernst
+
+## Dev Environment
+You're going to set up a lot of this at HR anyway, so why not start now?
++ Get [Brew](http://brew.sh/), the package manager for your Mac.
++ You'll be using Node (and npm) in the very near future, so you may as well install it now. Follow [this fantastic guide](http://www.johnpapa.net/how-to-use-npm-global-without-sudo-on-osx/) to get started and install them the right way.
++ Get some nice fonts for your terminal and text editor. I like [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) in my text editor and [Input Mono](http://input.fontbureau.com/) for my command line.
